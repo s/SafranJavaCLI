@@ -22,8 +22,8 @@ class Safran
     private static final String RSS_URL = "http://www.safran.io/feed.rss";
     private static final int MAX_FEED = 10;
 
-    public static final String ANSI_GREEN = "\u001B[32m";
-    public static final String ANSI_BLUE = "\u001B[34m";
+    private static final String ANSI_GREEN = "\u001B[32m";
+    private static final String ANSI_BLUE = "\u001B[34m";
     
     public static void main(String[] args) 
     {
