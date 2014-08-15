@@ -6,6 +6,7 @@
 ## Kullanım
 
 ```bash
+javac main.m
 java Safran
 ```
 
